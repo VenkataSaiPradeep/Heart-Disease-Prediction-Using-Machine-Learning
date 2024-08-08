@@ -1,15 +1,14 @@
 **🩺 Predictive Analytics System for Heart Disease Diagnosis**
 
 **📌 Table of Contents**<br>
-<br>1. 📖 Overview</br>
-<br>2. ✨ Features</br>
-<br>3. 📊 Data</br>
-<br>4. 🧠 Modeling</br>
-<br>5. 📈 Evaluation</br>
-<br>6. 📊 Visualization</br>
-<br>7. 🏆 Results</br>
-<br>8. 📜 License</br>
-
+<br>  1. 📖 Overview</br>
+<br>  2. ✨ Features</br>
+<br>  3. 📊 Data</br>
+<br>  4. 🧠 Modeling</br>
+<br>  5. 📈 Evaluation</br>
+<br>  6. 📊 Visualization</br>
+<br>  7. 🏆 Results</br>
+<br>  8. 📜 License</br>
 
 **1. 📖 Overview**<br>
 
@@ -22,10 +21,8 @@ This project is a predictive analytics system for heart disease diagnosis using 
 <br>📊 **Visualization:** Comprehensive visualizations for data analysis and model interpretation.
 <br>⚡ **Scalability:** Efficient processing of large datasets, with the capability to handle over 300,000 records.
 
-
 **3. 📊 Data**<br>
 The dataset used in this project consists of 14 features related to heart disease. Key features include:
-
 <br>🧑‍💼 Age</br>
 <br>🚻 Sex</br>
 <br>🫀 Chest Pain Type</br>
@@ -43,7 +40,6 @@ The dataset used in this project consists of 14 features related to heart diseas
 
 **4. 🧠 Modeling**<br>
 The project implements four different machine learning models:
-
 <br>🤖 Logistic Regression</br>
 <br>🌳 Decision Tree Classifier</br>
 <br>🧠 Naive Bayes</br>
@@ -52,7 +48,6 @@ These models are trained and evaluated using the processed dataset. Feature sele
 
 **5. 📈 Evaluation**<br>
 The models are evaluated using the following metrics:
-
 <br>🎯 Accuracy: Overall correctness of the model's predictions.
 <br>📊 AUC-ROC Score: Measures the model's ability to distinguish between classes.
 <br>🗂️ Confusion Matrix: Visual representation of the true vs predicted classifications.
@@ -60,7 +55,6 @@ The models are evaluated using the following metrics:
 
 **6. 📊 Visualization**<br>
 Visualization plays a key role in this project. The following visualizations are included:
-
 <br>📉 Histograms: Distribution of continuous features.
 <br>📊 Correlation Heatmaps: Relationships between features.
 <br>🗂️ Confusion Matrices: Model performance evaluation.
@@ -68,12 +62,10 @@ All visualizations are generated using Matplotlib and Seaborn.
 
 **7. 🏆 Results**<br>
 The final system achieved the following results:
-
 <br>🎯 Accuracy: 88%
 <br>📊 AUC-ROC Score: 0.92
 <br>⚖️ F1 Score: Improved by 10% through cross-validation.
 <br>⏱️ Processing Time: Capable of handling large datasets with over 300,000 records in under 2 minutes.
-
 
 **8. 📜 License**<br>
 This project is licensed under the MIT License.
