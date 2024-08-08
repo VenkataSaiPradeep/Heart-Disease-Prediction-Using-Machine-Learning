@@ -1,6 +1,6 @@
 **🩺 Predictive Analytics System for Heart Disease Diagnosis**
 
-**📌 Table of Contents**
+**📌 Table of Contents**<br>
 <br>1. 📖 Overview</br>
 <br>2. ✨ Features</br>
 <br>3. 📊 Data</br>
@@ -53,28 +53,27 @@ These models are trained and evaluated using the processed dataset. Feature sele
 **5. 📈 Evaluation**
 The models are evaluated using the following metrics:
 
-🎯 Accuracy: Overall correctness of the model's predictions.
-📊 AUC-ROC Score: Measures the model's ability to distinguish between classes.
-🗂️ Confusion Matrix: Visual representation of the true vs predicted classifications.
-⚖️ F1 Score: Balance between precision and recall.
+<br>🎯 Accuracy: Overall correctness of the model's predictions.
+<br>📊 AUC-ROC Score: Measures the model's ability to distinguish between classes.
+<br>🗂️ Confusion Matrix: Visual representation of the true vs predicted classifications.
+<br>⚖️ F1 Score: Balance between precision and recall.
 
 **6. 📊 Visualization**
 Visualization plays a key role in this project. The following visualizations are included:
 
-📉 Histograms: Distribution of continuous features.
-📊 Correlation Heatmaps: Relationships between features.
-🗂️ Confusion Matrices: Model performance evaluation.
+<br>📉 Histograms: Distribution of continuous features.
+<br>📊 Correlation Heatmaps: Relationships between features.
+<br>🗂️ Confusion Matrices: Model performance evaluation.
 All visualizations are generated using Matplotlib and Seaborn.
 
 **7. 🏆 Results**
 The final system achieved the following results:
 
-🎯 Accuracy: 88%
-📊 AUC-ROC Score: 0.92
-⚖️ F1 Score: Improved by 10% through cross-validation.
-⏱️ Processing Time: Capable of handling large datasets with over 300,000 records in under 2 minutes.
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any improvements or bug fixes.
+<br>🎯 Accuracy: 88%
+<br>📊 AUC-ROC Score: 0.92
+<br>⚖️ F1 Score: Improved by 10% through cross-validation.
+<br>⏱️ Processing Time: Capable of handling large datasets with over 300,000 records in under 2 minutes.
+
 
 **8. 📜 License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
