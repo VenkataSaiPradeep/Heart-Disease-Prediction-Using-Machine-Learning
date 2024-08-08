@@ -1,14 +1,14 @@
 **🩺 Predictive Analytics System for Heart Disease Diagnosis**
 
 **📌 Table of Contents**<br>
-<br>  1. 📖 Overview</br>
-<br>  2. ✨ Features</br>
-<br>  3. 📊 Data</br>
-<br>  4. 🧠 Modeling</br>
-<br>  5. 📈 Evaluation</br>
-<br>  6. 📊 Visualization</br>
-<br>  7. 🏆 Results</br>
-<br>  8. 📜 License</br>
+<br>  1. 📖 Overview
+<br>  2. ✨ Features
+<br>  3. 📊 Data
+<br>  4. 🧠 Modeling
+<br>  5. 📈 Evaluation
+<br>  6. 📊 Visualization
+<br>  7. 🏆 Results
+<br>  8. 📜 License
 
 **1. 📖 Overview**<br>
 
@@ -23,27 +23,27 @@ This project is a predictive analytics system for heart disease diagnosis using 
 
 **3. 📊 Data**<br>
 The dataset used in this project consists of 14 features related to heart disease. Key features include:
-<br>🧑‍💼 a. Age</br>
-<br>🚻 b. Sex</br>
-<br>🫀 c. Chest Pain Type</br>
-<br>🩸 d. Resting Blood Pressure</br>
-<br>🧪 e. Serum Cholesterol</br>
-<br>🧪 f. Fasting Blood Sugar</br>
-<br>🩺 g. Resting ECG Results</br>
-<br>🏃‍♂️ h. Maximum Heart Rate Achieved</br>
-<br>🦵 i. Exercise Induced Angina</br>
-<br>📉 j. ST Depression Induced by Exercise</br>
-<br>📈 k. Slope of the Peak Exercise ST Segment</br>
-<br>🔬 l. Number of Major Vessels Colored by Fluoroscopy</br>
-<br>🧬 m. Thalassemia</br>
-<br>🎯 n. Target (Heart Disease Diagnosis)</br>
+<br>🧑‍💼 a. Age
+<br>🚻 b. Sex
+<br>🫀 c. Chest Pain Type
+<br>🩸 d. Resting Blood Pressure
+<br>🧪 e. Serum Cholesterol
+<br>🧪 f. Fasting Blood Sugar
+<br>🩺 g. Resting ECG Results
+<br>🏃‍♂️ h. Maximum Heart Rate Achieved
+<br>🦵 i. Exercise Induced Angina
+<br>📉 j. ST Depression Induced by Exercise
+<br>📈 k. Slope of the Peak Exercise ST Segment
+<br>🔬 l. Number of Major Vessels Colored by Fluoroscopy
+<br>🧬 m. Thalassemia
+<br>🎯 n. Target (Heart Disease Diagnosis)
 
 **4. 🧠 Modeling**<br>
 The project implements four different machine learning models:
-<br>🤖 a. Logistic Regression</br>
-<br>🌳 b. Decision Tree Classifier</br>
-<br>🧠 c. Naive Bayes</br>
-<br>🧪 d. Support Vector Machine (SVM)</br>
+<br>🤖 a. Logistic Regression
+<br>🌳 b. Decision Tree Classifier
+<br>🧠 c. Naive Bayes
+<br>🧪 d. Support Vector Machine (SVM)
 These models are trained and evaluated using the processed dataset. Feature selection and hyperparameter tuning are applied to optimize performance.
 
 **5. 📈 Evaluation**<br>
