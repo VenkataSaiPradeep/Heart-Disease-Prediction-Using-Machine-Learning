@@ -16,11 +16,11 @@
 This project is a predictive analytics system for heart disease diagnosis using Python. The goal is to predict whether a patient is likely to have heart disease based on 14 key features. The system leverages various machine learning algorithms and data preprocessing techniques to achieve an accuracy of 88%, with a strong AUC-ROC score of 0.92.
 
 **2. ✨ Features**
-🔍 **Data Preprocessing:** Standardization, encoding, and feature selection for optimal model performance.
-🤖 **Machine Learning Models:** Implementation of Logistic Regression, Decision Tree, Naive Bayes, and SVM.
-🔧 **Cross-Validation:** Techniques to ensure model robustness and prevent overfitting.
-📊 **Visualization:** Comprehensive visualizations for data analysis and model interpretation.
-⚡ **Scalability:** Efficient processing of large datasets, with the capability to handle over 300,000 records.
+<br>🔍 **Data Preprocessing:** Standardization, encoding, and feature selection for optimal model performance.
+<br>🤖 **Machine Learning Models:** Implementation of Logistic Regression, Decision Tree, Naive Bayes, and SVM.
+<br>🔧 **Cross-Validation:** Techniques to ensure model robustness and prevent overfitting.
+<br>📊 **Visualization:** Comprehensive visualizations for data analysis and model interpretation.
+<br>⚡ **Scalability:** Efficient processing of large datasets, with the capability to handle over 300,000 records.
 
 
 **3. 📊 Data**
